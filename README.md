@@ -1,4 +1,5 @@
 # SOLID-Principles_3-_Liskov-Substitution-Principle-LSP-
+# Subtypes must be substitutable for their base types.
 
 class Rectangle:
   def __init__(self, width, height):self.width = width
